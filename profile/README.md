@@ -10,7 +10,7 @@ Our GitHub organization exists to help developers fully leverage Hgraph's data t
 
 ## Getting Started 👋
 
-* **[Account Dashboard](https://github.com/hgraph-io/sdk)** - API playground, schema explorer and more. Sign up!
+* **[Account Dashboard](https://console.hgraph.io)** - API playground, schema explorer and more. Sign up!
 * **[Hgraph SDK](https://github.com/hgraph-io/sdk)** - Designed to make developing with our APIs easy, fast and powerful.
 * **[Documentation](https://docs.hgraph.com)** - Get the information you need to bring ideas to life.
 * **[FAQs](https://docs.hgraph.com/category/faqs)** - A great to understanding core aspects of our services and products.
