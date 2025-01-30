@@ -1,6 +1,6 @@
 # Welcome to Hgraph 🙌
 
-[![image](Hgraph_Bento-Box_Dec-2024.png)](https://hgraph.com)
+[![image](Hgraph-Bento-V3.png)](https://hgraph.com)
 
 [Hgraph](https://hgraph.com) is a Web3 data infrastructure company focused on providing tooling for the Hedera network and beyond. Our core offerings include Hedera mirror node APIs (GraphQL & REST), bare metal infrastructure, SDKs, the Hedera JSON-RPC, and bespoke software engineering services.
 
@@ -10,7 +10,8 @@ Our GitHub organization exists to help developers fully leverage Hgraph's data t
 
 ## Getting Started 👋
 
-* **[Account Dashboard](https://console.hgraph.io)** - API playground, schema explorer and more. Sign up!
+* **Account dashboard** - Self serve sign-up. Coming soon.
+* **[Console](https://console.hgraph.io)** - API playground, schema explorer and more.
 * **[Hgraph SDK](https://github.com/hgraph-io/sdk)** - Designed to make developing with our APIs easy, fast and powerful.
 * **[Documentation](https://docs.hgraph.com)** - Get the information you need to bring ideas to life.
 * **[FAQs](https://docs.hgraph.com/category/faqs)** - A great to understanding core aspects of our services and products.
@@ -30,4 +31,4 @@ Our GitHub organization exists to help developers fully leverage Hgraph's data t
 
 ## Contact 📧
 
-Want to work with Hgraph? Please feel free to [contact us →](https://form.typeform.com/to/LUnKkmRL)
+Want to work with Hgraph? Please feel free to [contact us →](https://www.hgraph.com/contact)
