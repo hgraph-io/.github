@@ -2,7 +2,7 @@
 
 [![image](Hgraph-Bento-V3.png)](https://hgraph.com)
 
-[Hgraph](https://hgraph.com) is a Web3 data infrastructure company focused on providing tooling for the Hedera network and beyond. Our core offerings include Hedera mirror node APIs (GraphQL & REST), bare metal infrastructure, SDKs, the Hedera JSON-RPC, and bespoke software engineering services.
+[Hgraph](https://hgraph.com) is a company focused on custom startup and enterprise solutions as well as APIs and infrastructure for the Hedera ecosystem and beyond. Our core offerings include Hedera mirror node APIs (GraphQL, JSON-RPC relay & REST), bare metal infrastructure, SDKs, and bespoke software engineering services.
 
 As illustrated in the graphic above, Hgraph's mission is simple: to make data access on the Hedera network easy, flexible, and affordable. We achieve this by focusing on the unique needs of our customers and sharing these innovations with the broader ecosystem.
 
@@ -10,13 +10,12 @@ Our GitHub organization exists to help developers fully leverage Hgraph's data t
 
 ## Getting Started 👋
 
-* **Account dashboard** - Self serve sign-up. Coming soon.
-* **[Console](https://console.hgraph.io)** - API playground, schema explorer and more.
+* **[Account dashboard](https://dashboard.hgraph.com)** - GraphQL playground, schema explorer and more. Get your free API key!
 * **[Hgraph SDK](https://github.com/hgraph-io/sdk)** - Designed to make developing with our APIs easy, fast and powerful.
 * **[Documentation](https://docs.hgraph.com)** - Get the information you need to bring ideas to life.
-* **[FAQs](https://docs.hgraph.com/category/faqs)** - A great to understanding core aspects of our services and products.
-* **[GraphQL API](https://docs.hgraph.com/category/graphql-api)** - Access data on the Hedera network via our mirror nodes.
-* [View our repositories →](https://github.com/orgs/hgraph-io/repositories)
+* **[Frequently asked questions](https://docs.hgraph.com/category/faqs)** - A great way to understand core aspects of our services and products.
+* **[Enterprise solutions](https://hgraph.com/enterprise)** - Blockchain, AI, custom nodes, data, APIs, consulting and more.
+* [View all of our repositories →](https://github.com/orgs/hgraph-io/repositories)
 
 
 
@@ -30,5 +29,7 @@ Our GitHub organization exists to help developers fully leverage Hgraph's data t
 
 
 ## Contact 📧
+
+Want to start using Hgraphs Hedera APIs? [Get a free API key →](https://dashboard.hgraph.com/)
 
 Want to work with Hgraph? Please feel free to [contact us →](https://www.hgraph.com/contact)
