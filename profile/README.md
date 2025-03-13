@@ -17,7 +17,9 @@ Our GitHub organization exists to help developers fully leverage Hgraph's data t
 * **[Enterprise solutions](https://hgraph.com/enterprise)** - Blockchain, AI, custom nodes, data, APIs, consulting and more.
 * [View all of our repositories →](https://github.com/orgs/hgraph-io/repositories)
 
+## Hgraph AI Assistant ⚡
 
+Create new queries and troubleshoot GraphQL API issues with our friendly, expert AI assistant. Get instant answers to most of your questions. Speed up efficiency in your development workflows. [Learn more](https://docs.hgraph.com/graphql-assistant) and [start a conversation](https://hgraph.com/assistant)!
 
 ## Community 💜
 
