@@ -1,6 +1,6 @@
 # Welcome to Hgraph 🙌
 
-[![image](Hgraph-Bento-V3.png)](https://hgraph.com)
+[![image](Hgraph-Bento-V6.png)](https://hgraph.com)
 
 [Hgraph](https://hgraph.com) is a company focused on custom startup and enterprise solutions as well as APIs and infrastructure for the Hedera ecosystem and beyond. Our core offerings include Hedera mirror node APIs (GraphQL, JSON-RPC relay & REST), bare metal infrastructure, SDKs, and bespoke software engineering services.
 
