@@ -2,36 +2,54 @@
 
 [![image](Hgraph-Bento-V6.png)](https://hgraph.com)
 
-[Hgraph](https://hgraph.com) is a company focused on custom startup and enterprise solutions as well as APIs and infrastructure for the Hedera ecosystem and beyond. Our core offerings include Hedera mirror node APIs (GraphQL, JSON-RPC relay & REST), bare metal infrastructure, SDKs, and bespoke software engineering services.
+[Hgraph](https://hgraph.com) is a multi-chain infrastructure company. We provide APIs, indexed data, MCP servers for AI agents, and bare-metal infrastructure across Ethereum, Hedera, and beyond. We also partner with teams on custom engineering and consulting, smart contract development, cross-chain interoperability, and more.
 
-As illustrated in the graphic above, Hgraph's mission is simple: to make data access on the Hedera network easy, flexible, and affordable. We achieve this by focusing on the unique needs of our customers and sharing these innovations with the broader ecosystem.
+## Get Started
 
-Our GitHub organization exists to help developers fully leverage Hgraph's data tooling and APIs and to make it easy for first-time users to get started. We’re excited to expand our products and services in the future and invite the community to be a part of it all here on GitHub!
+- **[Hgraph App](https://app.hgraph.com)** — API playground, schema explorer, and usage monitoring. Get a free API key.
+- **[Hgraph SDK](https://github.com/hgraph-io/sdk)** — Integrate our APIs with minimal setup.
+- **[Documentation](https://docs.hgraph.com)** — Guides, references, and examples.
+- **[Solutions](https://hgraph.com/solutions)** — Custom engineering and consulting.
+- [View all repositories →](https://github.com/orgs/hgraph-io/repositories)
 
-## Getting Started 👋
+## Hgraph MCP & AI Tooling
 
-* **[Account dashboard](https://dashboard.hgraph.com)** - GraphQL playground, schema explorer and more. Get your free API key!
-* **[Hgraph SDK](https://github.com/hgraph-io/sdk)** - Designed to make developing with our APIs easy, fast and powerful.
-* **[Documentation](https://docs.hgraph.com)** - Get the information you need to bring ideas to life.
-* **[Frequently asked questions](https://docs.hgraph.com/category/faqs)** - A great way to understand core aspects of our services and products.
-* **[Enterprise solutions](https://hgraph.com/enterprise)** - Blockchain, AI, custom nodes, data, APIs, consulting and more.
-* [View all of our repositories →](https://github.com/orgs/hgraph-io/repositories)
+Query live on-chain data using natural language through our MCP servers. Learn more at [hgraph.ai](https://hgraph.ai).
 
-## Hgraph AI Assistant ⚡
+## Solutions
 
-Create new queries and troubleshoot GraphQL API issues with our friendly, expert AI assistant. Get instant answers to most of your questions. Speed up efficiency in your development workflows. [Learn more](https://docs.hgraph.com/graphql-assistant) and [start a conversation](https://hgraph.com/assistant)!
+Beyond the self-serve platform, we work with teams on custom builds:
 
-## Community 💜
+- **Smart contract development** — Solidity and EVM contracts, secure development, and audit coordination.
+- **Cross-chain interoperability** — Bridges and messaging integrations built on LayerZero V2.
+- **Custom data indexing** — Bespoke indexers, schemas, and GraphQL APIs for any chain.
+- **Backend & infrastructure** — Bare-metal nodes, custom mirror nodes, observability, and production operations.
+- **AI agent development** — Agents that query and surface onchain data via MCP.
+- **Consulting & advisory** — Architecture reviews, technical due diligence, and embedded engineering.
 
-* **[Newsletter](https://hgraph.beehiiv.com/subscribe)** - Subscribe via email.
-* **[𝕏 (Twitter)](https://docs.hgraph.com/support)** - Follow for frequent updates.
-* **[Discord](https://discord.gg/dwxpRHHVWX)** - Connect with our community and team directly.
-* **[LinkedIn](https://www.linkedin.com/company/hgraph_io)** - Keeping it business casual, let's network!
-* **[Support](https://docs.hgraph.com/support)** - We're here to help : )
+[Learn more about our solutions →](https://hgraph.com/solutions)
 
+## Ecosystem
 
-## Contact 📧
+- **[EtaFinance](https://eta.finance)** — Cross-chain bridge and DEX aggregator built on LayerZero, supporting Ethereum, Base, Polygon, Avalanche, and Hedera.
+- **[hgraph.ai](https://hgraph.ai)** — AI agent tooling powered by our MCP servers and indexed data.
+- **[Hedera Stats](https://hgraph.com/hedera/stats)** — Network analytics and dashboards.
 
-Want to start using Hgraphs Hedera APIs? [Get a free API key →](https://dashboard.hgraph.com/)
+## Featured Repositories
 
-Want to work with Hgraph? Please feel free to [contact us →](https://www.hgraph.com/contact)
+- **[sdk](https://github.com/hgraph-io/sdk)** — Hgraph SDK for working with our APIs.
+- **[eta-finance](https://github.com/hgraph-io/eta-finance)** — EtaFinance product monorepo.
+- **[hedera-stats](https://github.com/hgraph-io/hedera-stats)** — Network analytics scripts and tooling.
+
+## Community
+
+- **[Newsletter](https://hgraph.beehiiv.com/subscribe)** — Subscribe via email.
+- **[X (Twitter)](https://x.com/hgraph)** — Follow for updates.
+- **[Discord](https://discord.gg/dwxpRHHVWX)** — Connect with our community and team.
+- **[LinkedIn](https://www.linkedin.com/company/hgraph_io)** — Company news and partner highlights.
+
+## Contact
+
+Ready to build? [Get a free API key →](https://app.hgraph.com)
+
+Want to work with us? [Get in touch →](https://hgraph.com/contact)
