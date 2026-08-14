@@ -38,7 +38,6 @@ Beyond the self-serve platform, we work with teams on custom builds:
 ## Featured Repositories
 
 - **[sdk](https://github.com/hgraph-io/sdk)** — Hgraph SDK for working with our APIs.
-- **[eta-finance](https://github.com/hgraph-io/eta-finance)** — EtaFinance product monorepo.
 - **[hedera-stats](https://github.com/hgraph-io/hedera-stats)** — Network analytics scripts and tooling.
 
 ## Community
